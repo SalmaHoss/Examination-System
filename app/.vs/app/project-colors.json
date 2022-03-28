@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c16c9b2-36d7-459e-a656-5495ef8d7635": {
+      "ProjectGuid": "4c16c9b2-36d7-459e-a656-5495ef8d7635",
+      "DisplayName": "reports",
+      "ColorIndex": 0
+    },
+    "5757af14-3760-4bb4-ba3a-8d5502744d0b": {
+      "ProjectGuid": "5757af14-3760-4bb4-ba3a-8d5502744d0b",
+      "DisplayName": "personal",
+      "ColorIndex": 1
+    },
+    "8cfa8f80-1aff-4cc0-adf1-2252c7824351": {
+      "ProjectGuid": "8cfa8f80-1aff-4cc0-adf1-2252c7824351",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 2
+    },
+    "9c2bda13-22e1-4eed-afb4-bb8e2b3d2110": {
+      "ProjectGuid": "9c2bda13-22e1-4eed-afb4-bb8e2b3d2110",
+      "DisplayName": "ExamCorrection",
+      "ColorIndex": 3
+    },
+    "d5bc53cd-1cfc-4199-b47b-4a3698cacdc0": {
+      "ProjectGuid": "d5bc53cd-1cfc-4199-b47b-4a3698cacdc0",
+      "DisplayName": "AdminPerson",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f8075ca7-6a94-4f7b-8f16-72e40de7fc89": {
+      "ProjectGuid": "f8075ca7-6a94-4f7b-8f16-72e40de7fc89",
+      "DisplayName": "login",
+      "ColorIndex": 5
+    },
+    "f27fef45-a576-4837-b4ad-fec706b7b4d0": {
+      "ProjectGuid": "f27fef45-a576-4837-b4ad-fec706b7b4d0",
+      "DisplayName": "frmShowGrade",
+      "ColorIndex": 6
+    },
+    "303cc7a5-211d-46cf-95e4-2dd0359ea911": {
+      "ProjectGuid": "303cc7a5-211d-46cf-95e4-2dd0359ea911",
+      "DisplayName": "loginPage",
+      "ColorIndex": 7
+    },
+    "de52f772-e277-4195-80f2-2c2adbe70782": {
+      "ProjectGuid": "de52f772-e277-4195-80f2-2c2adbe70782",
+      "DisplayName": "Login",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

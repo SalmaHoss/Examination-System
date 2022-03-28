@@ -1,0 +1,11 @@
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\bin\Debug\AdminStudent.exe.config
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\bin\Debug\AdminStudent.exe
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\bin\Debug\AdminStudent.pdb
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.csproj.AssemblyReference.cache
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.csproj.SuggestedBindingRedirects.cache
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.Form1.resources
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.Properties.Resources.resources
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.csproj.GenerateResource.cache
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.csproj.CoreCompileInputs.cache
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.exe
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.pdb

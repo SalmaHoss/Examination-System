@@ -1,0 +1,142 @@
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\frmShowGrade.exe.config
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\frmShowGrade.exe
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\frmShowGrade.pdb
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\frmShowGrade.csproj.AssemblyReference.cache
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\frmShowGrade.Form1.resources
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\frmShowGrade.Properties.Resources.resources
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\frmShowGrade.csproj.GenerateResource.cache
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\RdlCompile.cache
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\RdlCompile.compiled
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\frmShowGrade.csproj.CoreCompileInputs.cache
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\frmShowGrade.exe
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\frmShowGrade.pdb
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\EnvDTE.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\stdole.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\frmShowGrade.ReportViewer.resources
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\frmShowGrade.csproj.CopyComplete
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\frmShowGrade.InsCrsStdReportViewer.resources
+C:\Users\Salma\source\repos\frmShowGrade\frmShowGrade\obj\Debug\frmShowGrade.ExamQuestions.resources
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\frmShowGrade.exe.config
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\frmShowGrade.exe
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\frmShowGrade.pdb
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\EnvDTE.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\stdole.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.csproj.AssemblyReference.cache
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.ExamQuestions.resources
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.Form1.resources
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.InsCrsStdReportViewer.resources
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.Properties.Resources.resources
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.ReportViewer.resources
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.csproj.GenerateResource.cache
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.csproj.CopyComplete
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.exe
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.pdb
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\bin\Debug\EnvDTE.xml
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\frmShowGrade\obj\Debug\frmShowGrade.csproj.SuggestedBindingRedirects.cache

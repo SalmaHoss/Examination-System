@@ -1,0 +1,38 @@
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\bin\Debug\AdminStudent.exe.config
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\bin\Debug\AdminStudent.exe
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\bin\Debug\AdminStudent.pdb
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.csproj.AssemblyReference.cache
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.csproj.SuggestedBindingRedirects.cache
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.Properties.Resources.resources
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.csproj.GenerateResource.cache
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.csproj.CoreCompileInputs.cache
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.exe
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.pdb
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.Form1.resources
+E:\Studing\ITI\DB\Project\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.Form2.resources
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\bin\Debug\AdminStudent.exe.config
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\bin\Debug\AdminStudent.exe
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\bin\Debug\AdminStudent.pdb
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.csproj.AssemblyReference.cache
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.AddDepartment.resources
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.Form1.resources
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.Form2.resources
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.Properties.Resources.resources
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.csproj.GenerateResource.cache
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\obj\Debug\AdminPerson.csproj.CoreCompileInputs.cache
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.exe
+C:\Users\pepo\Downloads\Telegram Desktop\ExamCorrection\ExamCorrection\AdminStudent\obj\Debug\AdminStudent.pdb
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\bin\Debug\AdminStudent.exe.config
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\bin\Debug\AdminStudent.exe
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\bin\Debug\AdminStudent.pdb
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\obj\Debug\AdminPerson.csproj.AssemblyReference.cache
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\obj\Debug\AdminStudent.AddDepartment.resources
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\obj\Debug\AdminPerson.Form1.resources
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\obj\Debug\AdminPerson.Form2.resources
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\obj\Debug\AdminStudent.Properties.Resources.resources
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\obj\Debug\AdminPerson.csproj.GenerateResource.cache
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\obj\Debug\AdminPerson.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\obj\Debug\AdminStudent.exe
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\obj\Debug\AdminStudent.pdb
+E:\software engineering\ITI\projects\1_ExaminationSystem\app\app\AdminStudent\obj\Debug\AdminPerson.csproj.SuggestedBindingRedirects.cache
